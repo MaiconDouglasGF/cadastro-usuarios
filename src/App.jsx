@@ -1,8 +1,8 @@
-import { Button, Container, Form, Input, Title, TopBackground } from "./assets/styles"
+import { Button, Container, Form, Input, Title, TopBackground , InputLabel, ContainerInputs } from "./styles"
 
 import UsersImage from './assets/users.png'
 
-import { ContainerInputs, InputLabel } from './assets/styles';
+
 
 
 function Home() {
